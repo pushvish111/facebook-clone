@@ -1,0 +1,7 @@
+npm uninstall - create-react-app
+
+Install/update react and react-dom globally
+npm i -g react react-dom
+
+Then try setting up the react app:
+npm init react-app my-app
